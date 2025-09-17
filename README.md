@@ -1,56 +1,77 @@
-🚜 Farm2Market – Direct Farmer-to-Consumer Platform
-📌 Problem Statement
+# 🚜 Farm2Market – Direct Farmer-to-Consumer Platform  
 
-Farmers in India often struggle with:
+## 📌 Overview  
+Farm2Market is a **CRM-based solution** built to connect **farmers directly with consumers, retailers, and local markets**.  
+This platform ensures **fair pricing, transparency, and efficiency** by eliminating middlemen and providing real-time tracking of orders and payments.  
 
-Middlemen taking a huge share of profits.
+---
 
-Lack of direct connection with consumers.
+## 🎯 Problem  
+Farmers in India face challenges such as:  
+- Middlemen reducing their profits.  
+- Lack of direct access to consumers.  
+- No proper tracking of orders, payments, and deliveries.  
+- Limited awareness of consumer demand trends.  
 
-No proper system for managing orders, payments, and deliveries.
+Consumers, on the other hand, want **fresh and affordable produce** but lack a direct channel to connect with farmers.  
 
-Difficulty in showcasing organic/fresh produce to urban buyers.
+---
 
-At the same time, consumers want fresh, affordable, and traceable food directly from farmers. However, there is no centralized transparent system connecting farmers and consumers.
+## 💡 Solution  
+Farm2Market provides a digital platform that:  
+- 📂 Manages farmer and consumer profiles.  
+- 🛒 Allows farmers to list produce with prices and availability.  
+- 💳 Tracks orders and payments in real-time.  
+- 🚚 Manages logistics and delivery tracking.  
+- 📊 Offers dashboards and reports for transparency and decision-making.  
 
-🎯 Project Overview
+---
 
-Farm2Market is a CRM-based solution that connects farmers directly with consumers, retailers, and local markets. The platform will:
+## 🏆 Objectives  
+✅ Eliminate middlemen and ensure **fair pricing**.  
+✅ Increase farmers’ income through **direct sales**.  
+✅ Provide consumers with **fresh, healthy, and affordable produce**.  
+✅ Enable **real-time tracking** of orders and payments.  
+✅ Promote **sustainable local farming practices**.  
 
-Help farmers list their produce and track orders.
+---
 
-Enable consumers to buy directly from farmers.
+## 👥 Stakeholders  
+- **Farmers** → Sell produce directly and track income.  
+- **Consumers** → Buy fresh produce at fair prices.  
+- **Retailers/Markets** → Bulk purchase directly from farmers.  
+- **Government/NGOs** → Monitor fair-trade and farmer welfare.  
 
-Provide transparency in pricing, payments, and logistics.
+---
 
-Generate insights on demand trends for farmers.
+## ⚙️ How Salesforce CRM is Used  
+- **Farmer & Consumer Management** → Farmers/consumers stored as Contacts/Accounts.  
+- **Product Listings** → Custom objects for produce with pricing and availability.  
+- **Order & Payment Tracking** → Opportunities track orders and payments.  
+- **Logistics Management** → Cases/Workflows for delivery tracking.  
+- **Dashboards & Reports** → Insights on demand, supply, and income growth.  
 
-🏆 Objectives
+---
 
-✅ Eliminate middlemen by connecting farmers to consumers directly.
-✅ Increase farmers’ income and ensure fair pricing.
-✅ Provide consumers with fresh, healthy produce at lower cost.
-✅ Offer real-time tracking of orders and payments.
-✅ Promote sustainable and local farming.
+## 📄 Problem Statement Document  
+You can view the detailed project problem statement here:  
+[👉 https://docs.google.com/document/d/1MUVpX8I_NHnv1Iw9ONef80dryAEZ0tTXk_48EDj8ULg/edit?usp=sharing]  
 
-👥 Stakeholders
+---
 
-Farmers → Sell produce directly and track income.
+## 🛠 Tech Stack  
+- **Platform**: Salesforce CRM  
+- **Database**: Salesforce Objects  
+- **Automation**: Salesforce Flows / Workflows  
+- **Analytics**: Reports & Dashboards  
+- **Integration (optional)**: Payment Gateways, Logistics APIs  
 
-Consumers → Buy fresh food at fair prices.
+---
 
-Retailers/Markets → Bulk purchase directly from farmers.
+## 📊 Expected Impact  
+- ✅ Empower farmers with **direct market access**.  
+- ✅ Provide consumers with **fresh, traceable food**.  
+- ✅ Ensure **transparency in pricing and payments**.  
+- ✅ Strengthen India’s **agriculture ecosystem**.  
 
-Government/NGOs → Monitor fair-trade and farmer welfare.
-
-⚙️ How Salesforce CRM is Used
-
-Farmer & Consumer Management → Farmers/consumers stored as Contacts/Accounts.
-
-Product Listings → Custom objects for produce with pricing and availability.
-
-Order & Payment Tracking → Opportunities track orders/payments.
-
-Logistics Management → Cases/Workflows for delivery tracking.
-
-Dashboards & Reports → Insights on demand, supply, and income growth.
+---
